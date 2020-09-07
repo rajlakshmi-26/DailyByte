@@ -1,3 +1,16 @@
+/*
+
+Question
+---------
+This question is asked by Google. Given a string, reverse all of its characters and return the resulting string.
+
+Ex: Given the following strings...
+
+“Cat”, return “taC”
+“The Daily Byte”, return "etyB yliaD ehT”
+“civic”, return “civic”
+
+ */
 package dev.rajlakshmi.dailybyte.day1_day30;
 
 public class ReverseString_Day1 {
@@ -11,3 +24,4 @@ public class ReverseString_Day1 {
     }
 
 }
+
