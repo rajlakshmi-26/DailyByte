@@ -1,8 +1,6 @@
 package dev.rajlakshmi.dailybyte;
 
-import dev.rajlakshmi.dailybyte.day1_day30.ReverseString_Day1;
-import dev.rajlakshmi.dailybyte.day1_day30.VacuumCleanerRoute_Day3;
-import dev.rajlakshmi.dailybyte.day1_day30.ValidPalindrome_Day2;
+import dev.rajlakshmi.dailybyte.day1_day30.*;
 
 public class Main {
 
@@ -22,6 +20,11 @@ public class Main {
         System.out.println(day3.isRouteValid("URURD"));
         System.out.println(day3.isRouteValid("RUULLDRD"));
 
+        CorrectCapitalization_Day4 day4 = new CorrectCapitalization_Day4();
+        System.out.println(day4.isCorrectCapitalized("USA"));
+        System.out.println(day4.isCorrectCapitalized("LeetCode"));
+        System.out.println(day4.isCorrectCapitalized("Google"));
+        System.out.println(day4.isCorrectCapitalized("ggg"));
         // write your code here
     }
 }
