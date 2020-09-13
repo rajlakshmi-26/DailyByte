@@ -12,7 +12,7 @@ Ex: Given the following strings...
 "A man, a plan, a canal: Panama.", return true
 
  */
-package dev.rajlakshmi.dailybyte.day1_day30;
+package dev.rajlakshmi.dailybyte.Week1;
 
 public class ValidPalindrome_Day2 {
     public boolean isPalindrome(String s) {

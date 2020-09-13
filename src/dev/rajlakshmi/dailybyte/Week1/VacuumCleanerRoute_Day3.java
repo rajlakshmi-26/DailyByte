@@ -7,7 +7,7 @@ Ex: Given the following strings...
 "URURD", return false
 "RUULLDRD", return true
  */
-package dev.rajlakshmi.dailybyte.day1_day30;
+package dev.rajlakshmi.dailybyte.Week1;
 public class VacuumCleanerRoute_Day3 {
     public boolean isRouteValid(String route) {
         int n = route.length(), x = 0, y = 0;

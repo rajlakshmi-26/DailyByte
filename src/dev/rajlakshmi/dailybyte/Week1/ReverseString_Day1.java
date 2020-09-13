@@ -11,7 +11,7 @@ Ex: Given the following strings...
 “civic”, return “civic”
 
  */
-package dev.rajlakshmi.dailybyte.day1_day30;
+package dev.rajlakshmi.dailybyte.Week1;
 
 public class ReverseString_Day1 {
 

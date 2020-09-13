@@ -8,7 +8,7 @@ Ex: Given the following strings...
 "compUter", return false
 "coding", return true
  */
-package dev.rajlakshmi.dailybyte.day1_day30;
+package dev.rajlakshmi.dailybyte.Week1;
 
 public class CorrectCapitalization_Day4 {
     public boolean isLetterCapital(char ch) {
