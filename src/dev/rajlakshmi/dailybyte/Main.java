@@ -46,6 +46,14 @@ public class Main {
         TwoSum_Day8 day8 = new TwoSum_Day8();
         System.out.println(day8.twoSum(new int[] {4,2,6,5,2}, 4));
         System.out.println(day8.twoSum(new int[] {3, 9, 13, 7}, 8));
+
+        System.out.println("******************************************");
+        ValidPalindrome_Day7 day7 = new ValidPalindrome_Day7();
+        System.out.println(day7.validPalindrome("abc"));
+        System.out.println(day7.validPalindrome("foobof"));
+        System.out.println(day7.validPalindrome("yd"));
+
+
         // write your code here
     }
 }
